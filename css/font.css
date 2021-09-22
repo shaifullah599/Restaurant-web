@@ -1,0 +1,48 @@
+
+
+
+
+@font-face{
+font-family: Archivo-Bold;
+src: url(../webfonts/Archivo/static/Archivo/Archivo-Bold.ttf);
+}
+
+@font-face{
+font-family: Montserrat-Bold ;
+src: url(../webfonts/Montserrat/Montserrat-Bold.ttf);
+
+}
+
+@font-face{
+    font-family: Archivo-ExtraBold;
+    src: url(../webfonts/Archivo/Archivo-ExtraBold.ttf);
+}
+
+
+@font-face{
+    font-family: Archivo-Medium;
+    src: url(../webfonts/Archivo/Archivo-Medium.ttf);
+}
+
+@font-face{
+    font-family: Archivo-ExtraBoldItalic;
+    src: url(../webfonts/Archivo/Archivo-ExtraBoldItalic.ttf);
+}
+
+@font-face{
+    font-family: Montserrat-ExtraBold;
+    src: url(../webfonts/Montserrat/Montserrat-ExtraBold.ttf);
+}
+
+@font-face{
+    font-family: Montserrat-Medium;
+    src: url(../webfonts/Montserrat/Montserrat-Medium.ttf);
+}
+
+@font-face{
+    font-family: Montserrat-Regular;
+    src: url(../webfonts/Montserrat/Montserrat-Regular.ttf);
+}
+
+
+
